@@ -38,8 +38,12 @@ Antes de entrar de vez no mundo de TI, passei por experiências em atendimento, 
 
 ## 🚀 Projetos em destaque
 
-> Em construção! Em breve terei projetos pessoais aqui. Acompanhe. 👀
+### 💅 Landing Page — Estética
+Site de página única para negócio de estética, com menu responsivo, depoimentos e agendamento via WhatsApp.
 
+**Tecnologias:** HTML, CSS, JavaScript
+
+🔗 [Ver site](https://ananoides.github.io/Landing_Estetica/) · [Código-fonte](https://github.com/ananoides/Landing_Estetica)
 ---
 
 ## 📫 Me encontra por aqui
