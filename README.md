@@ -44,6 +44,7 @@ Site de página única para negócio de estética, com menu responsivo, depoimen
 **Tecnologias:** HTML, CSS, JavaScript
 
 🔗 [Ver site](https://ananoides.github.io/Landing_Estetica/) · [Código-fonte](https://github.com/ananoides/Landing_Estetica)
+
 ---
 
 ## 📫 Me encontra por aqui
